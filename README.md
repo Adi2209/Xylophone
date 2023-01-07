@@ -1,6 +1,6 @@
 
 # Xylophone 🎹
-A xylohpne app which plays all the seven notes of music.
+A fun xylophone app that can play all seven notes of music. It will help to find the musician inside you.
 
 Screenshot:
 
