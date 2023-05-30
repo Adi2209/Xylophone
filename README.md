@@ -2,10 +2,6 @@
 # Xylophone 🎹
 A fun xylophone app that can play all seven notes of music. It will help to find the musician inside you.
 
-Screenshot:
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png
-
 Video:
 
 
